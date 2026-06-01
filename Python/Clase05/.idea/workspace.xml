@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e19633c2-85db-455f-b047-9bc16f5dcea7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Clase02/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Clase03/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Clase04/Actividad1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Clase04/Leccion1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Clase04/Leccion2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Clase04/Lección3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicio1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicio2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicio3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicio4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicio5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3EUvzrKUlIdbicvqAH65b0xbago" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.Ejercicio1.executor": "Run",
+    "Python.Ejercicio2.executor": "Run",
+    "Python.Ejercicio3.executor": "Run",
+    "Python.Ejercicio4.executor": "Run",
+    "Python.Ejercicio5.executor": "Run",
+    "Python.main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "git-widget-placeholder": "master"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-b63d5a1f7c97-b61e75351b1f-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.22158.340" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e19633c2-85db-455f-b047-9bc16f5dcea7" name="Changes" comment="" />
+      <created>1780246228158</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1780246228158</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
