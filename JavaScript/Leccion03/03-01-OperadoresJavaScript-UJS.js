@@ -44,6 +44,7 @@ let miNumero = "21";//Es una cadena
 console.log(typeof miNumero);
 let edad2 = Number(miNumero)//Esta es una función
 console.log(edad2);
+//Funcion isNaN
 if (isNaN(edad2)) { //No es número = is Not a Number(devuelve un resultado booleano)
     console.log("La variable no contiene solo números")
 } else {
@@ -58,5 +59,3 @@ if (isNaN(edad2)) { //No es número = is Not a Number(devuelve un resultado bool
 
 let resultado3 = edad2 >= 18 ? "Puede votar" : "Muy joven para votar"
 console.log(resultado3)
-
-//Funcion isNaN
