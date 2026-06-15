@@ -60,4 +60,7 @@ Operadores relaciones(Boolean)
 <=
 >=
 
+Operadores lógicos
+And -> && Doble aspersan
+Or -> || 
 
