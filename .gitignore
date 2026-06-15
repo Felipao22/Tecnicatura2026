@@ -1,0 +1,44 @@
+# Compilados de Java
+*.class
+*.log
+
+# Archivos de empaquetado (Se compilan desde el código fuente)
+*.jar
+*.war
+*.ear
+*.zip
+
+# Carpetas de dependencias y construcción
+target/
+build/
+bin/
+out/
+.gradle/
+
+# Archivos de IDEs y editores
+# IntelliJ IDEA
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# Eclipse
+.project
+.classpath
+.settings/
+bin/
+derby.log
+.metadata/
+
+# NetBeans
+nbproject/private/
+nbbuild/
+nbdist/
+.nb-gradle/
+
+# Visual Studio Code
+.vscode/
+
+# Metadatos del sistema operativo
+.DS_Store
+Thumbs.db
